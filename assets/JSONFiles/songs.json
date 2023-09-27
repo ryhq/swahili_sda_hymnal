@@ -3181,5 +3181,905 @@
                 "chorus" : "Pale msalaba, msalaba wake, \nHuo ni sifa yangu, kwa maisha yote."
             }
         ]
+    },
+    {
+        "song_id" : 121,
+        "song_name" : "Katika Wenye Dhambi",
+        "key_signature" : "E minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Katika wenye dhambi, ndimi mkuu wao, \nIla Yesu akaja, kwa dhambi alikufa, \nAkamimina damu, niupate uzima."
+                    },
+                    {
+                        "verse" : "Ajabu! Pendo lake, pendo lililo kuu, \nPendo lisilo mwisho, lidumulo milele, \nLililonitafuta, ingawa sikumpenda."
+                    },
+                    {
+                        "verse" : "Ingawa ni mbaya, Kristo ni vyote kwangu, \nAjua haja zangu, huzuni zangu zake, \nHata katika vita, akiwapo salama."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 122,
+        "song_name" : "Yote Namtolea Yesu",
+        "key_signature" : "D",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Yote namtolea Yesu, moyo wangu ni wake, \nNinavutwa na upendo, kwa hivyo najitoa."
+                    },
+                    {
+                        "verse" : "Yote namtolea Yesu, nainamia pake, \nNimeacha na anasa, kwako Yesu nipokee."
+                    },
+                    {
+                        "verse" : "Yote namtolea Yesu, nifanye niwe wako, \nNipe Roho yako, Bwana, anilinde daima."
+                    },
+                    {
+                        "verse" : "Yote namtolea Yesu, nami naona sasa, \nFuraha ya ukombozi, nasifu jina lake."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yote kwa Yesu, yote kwa Yesu, \nUpendo wako hushinda, Yesu natoa."
+            }
+        ]
+    },
+    {
+        "song_id" : 123,
+        "song_name" : "Yesu Kwa Imani",
+        "key_signature" : "D",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Yesu kwa imani, nakutumaini, peke yako, \nNisikie sasa, na kunitakasa, \nNi wako kabisa Tangu leo."
+                    },
+                    {
+                        "verse" : "Nipe nguvu pia, za kusaidia, moyo wangu, \nUlikufa wewe, wokovu nipewe, \nNakupenda wewe, Bwana wangu."
+                    },
+                    {
+                        "verse" : "Hapa nazunguka, katika mashaka, na matata, \nPalipo na giza, utaniongoza, \nHivi nitaweza kufuata."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 124,
+        "song_name" : "Umechoka Je Umesumbuka",
+        "key_signature" : "E minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Umechoka je umesumbuka? \nMwambie Yesu sumbuko lako, \nUnayalilia yapitayo? \nMwambie Yesu pekee."
+                    },
+                    {
+                        "verse" : "Je, machozi yakulengalenga?  \nMwambie Yesu sumbuko lako, \nWalemewa na dhambi rohoni? \nMwambie Yesu pekee."
+                    },
+                    {
+                        "verse" : "Waogopa shida na majonzi? \nMwambie Yesu sumbuko lako, \nWasumbukia mambo yajayo? \nMwambie Yesu pekee."
+                    },
+                    {
+                        "verse" : "Kuwazia kifo kukutisha?  \nMwambie Yesu sumbuko lako, \nWatamania ufalme wake? \nMwambie Yesu pekee."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Mwambie Yesu sumbuko lako, \nYu rafiki amini, \nHakuna rafiki kama yeye, \nMwambie Yesu pekee."
+            }
+        ]
+    },
+    {
+        "song_id" : 125,
+        "song_name" : "Uniangalie Atwambia",
+        "key_signature" : "D",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "‘Uniangalie’ atwambia, \nYesu aliyetufia, \nMsalabani ni uzima, \nHapa utaipata hazina."
+                    },
+                    {
+                        "verse" : "Ninapojaribiwa ghafula, \nShetani hatanitega, \nNikitazama msalaba, \nNguvu nitaipata kwa Bwana."
+                    },
+                    {
+                        "verse" : "Msalaba nitautazama, \nKila wakati daima, \nAhadi nitategemea, \nHivi kabisa sitaanguka."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Kutazama Kalwari, \nKutazama Kalwari, \nNi kupewa kuishi, \nKuutazama mti."
+            }
+        ]
+    },
+    {
+        "song_id" : 126,
+        "song_name" : "Uniangalie Atwambia",
+        "key_signature" : "E minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Nina haja nawe, kila saa, \nHawezi mwingine, kunifaa."
+                    },
+                    {
+                        "verse" : "Nina haja nawe, kaa nami, \nNa maonjo haya, hayaumi."
+                    },
+                    {
+                        "verse" : "Nina haja nawe, kila hali, \nMaisha ni bure, uli mbali."
+                    },
+                    {
+                        "verse" : "Nina haja nawe, nifundishe, \nNa ahadi zako, zifikishe."
+                    },
+                    {
+                        "verse" : "Nina haja nawe, mweza yote, \nNi wako kabisa, siku zote."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yesu nakuhitaji, vivyo kila saa, \nNiwezeshe Mwokozi, nakujia."
+            }
+        ]
+    },
+    {
+        "song_id" : 127,
+        "song_name" : "Ni Salama Rohoni",
+        "key_signature" : "C",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Nionapo amani kama shwari, \nAu nionapo shida, \nKwa hali zote umenijulisha, \nNi salama rohoni mwangu."
+                    },
+                    {
+                        "verse" : "Ingawa Shetani atanitesa, \nNitajipa moyo kwani, \nKristo ameona unyonge wangu, \nAmekufa kwa roho yangu."
+                    },
+                    {
+                        "verse" : "Dhambi zangu zote wala si nusu, \nHuwekwa msalabani, \nWala sichukui laana yake, \nNi salama rohoni mwangu."
+                    },
+                    {
+                        "verse" : "Ee Bwana himiza siku ya kuja, \nPanda itakapolia, \nUtakaposhuka sitaogopa, \nNi salama rohoni mwangu."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Salama rohoni, \nNi salama rohoni mwangu."
+            }
+        ]
+    },
+    {
+        "song_id" : 128,
+        "song_name" : "Namwandama Bwana",
+        "key_signature" : "F minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Namwandama Bwana, kwa alilonena, \nNjia zangu huning’azia, \nNa nikimridhisha, atanidumisha, \nTaamini nitii pia."
+                    },
+                    {
+                        "verse" : "Giza sina kwangu, wala hata wingu, \nYeye mara huviondoa, \nWoga wasiwasi, sononeko basi, \nHuamini nitii pia."
+                    },
+                    {
+                        "verse" : "Masumbuko yote, sikitiko lote, \nKwa mapenzi hunilipia, \nBaa dhara dhiki, vivyo hubariki, \nTaamini nitii pia."
+                    },
+                    {
+                        "verse" : "Mimi sitajua, raha sawasawa, \nIla yote Yesu kumtoa, \nNapata fadhili, na radhi kamili, \nTaamini nitii pia."
+                    },
+                    {
+                        "verse" : "Nitamfurahia, na kumtumaini, \nMajumbani na njia-njia, \nAgizo natenda, nikitumwa huenda, \nHuamini, nitii pia."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Kuamini, njia pekee ni hii, \nYa furaha kwa Yesu, \nAmini ukatii."
+            }
+        ]
+    },
+    {
+        "song_id" : 129,
+        "song_name" : "Kumtegemea Mwokozi",
+        "key_signature" : "G",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Kumtegemea Mwokozi, \nKwangu tamu kabisa, \nKukubali neno lake, \nNina raha moyoni."
+                    },
+                    {
+                        "verse" : "Kumtegemea Mwokozi, \nKwangu tamu kabisa, \nKuamini damu yake, \nNimeoshwa kamili."
+                    },
+                    {
+                        "verse" : "Kumtegemea Mwokozi, \nKwangu tamu kabisa, \nKwake daima napata, \nUzima na amani."
+                    },
+                    {
+                        "verse" : "Nafurahi kwa sababu, \nNimekutegemea, \nYesu mpendwa rafiki, \nUwe nami dawamu."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yesu Yesu namwamini, \nNimemwona thabiti, \nYesu Yesu yu thamani, \nAhadi zake kweli."
+            }
+        ]
+    },
+    {
+        "song_id" : 130,
+        "song_name" : "Yesu Kwetu Ni Rafiki",
+        "key_signature" : "F minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Yesu kwetu ni rafiki, wambiwa haja pia, \nTukiomba kwa Babaye, maombi asikia, \nLakini twajikosesha, twajitweka vibaya, \nKama tulimwomba Mungu, dua alisikia."
+                    },
+                    {
+                        "verse" : "Una dhiki na maonjo? unamashaka pia? \nHaifai kufa moyo, dua atasikia, \nHakuna mwingine mwema, wa kutuhurumia, \nAtujua tu dhaifu, maombi asikia."
+                    },
+                    {
+                        "verse" : "Je hunayo hata nguvu, huwezi kwendelea, \nUjapodharauliwa, njaporushwa pia, \nWatu wakikudharau, wapendao dunia, \nHukwambata mikononi, dua atasikia."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 131,
+        "song_name" : "Namtegemea Mungu",
+        "key_signature" : "",
+        "time_signature" : "",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Namtegemea Mungu niwapo, \nHumo barani na baharini, \nYeye wa mbinguni anilinda, \nBaba wa mbinguni anilinda."
+                    },
+                    {
+                        "verse" : "La waridi alinawirisha, \nNa huyo tai juu angani, \nNami kweli ananilinda, \nBaba wa mbinguni anilinda."
+                    },
+                    {
+                        "verse" : "Tunduni mwa simba namwamini,\nKwenye vita ama gerezani, \nMotoni na furikoni, \nBaba wa mbinguni anilinda."
+                    },
+                    {
+                        "verse" : "Bondeni mwa giza na upweke,\nMchunga wangu yu anilinda, \nKwa upole aniongoza, \nBaba wa mbinguni anilinda."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Namwamini, Mungu anitunza (anitunza), \nMilimani (milimani) au baharini (baharini), \nMoyo wangu (moyo wangu) aulinda (aulinda), \nBaba wa mbinguni anilinda."
+            }
+        ]
+    },
+    {
+        "song_id" : 132,
+        "song_name" : "Bwana ni Mchunga",
+        "key_signature" : "F minor",
+        "time_signature" : "2/2",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Bwana ni mchunga sitahitaji, \nMajani mabichi malisho yangu. \nAnaninywesha maji matulivu, \nAtanirudisha nikipotea."
+                    },
+                    {
+                        "verse" : "Nipitapo bondeni mwa mauti, \nU mlinzi wangu sitaogopa, \nFimbo yako yatosha kunilinda, \nUkinifariji sina hasara."
+                    },
+                    {
+                        "verse" : "Kati ya mateso meza waandaa, \nNa kikombe changu kinafurika, \nUmenipaka kichwani mafuta, \nNitaulizaje zaidi kwako?"
+                    },
+                    {
+                        "verse" : "Wema na fadhili zinifuate, \nSiku zangu zote hata milele, \nNami nitakaa nyumbani mwa Bwana, \nKatika ufalme wa pendo lake."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 133,
+        "song_name" : "Popote Na Yesu",
+        "key_signature" : "D",
+        "time_signature" : "6/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Popote na Yesu ninafuraha, \nAnitumako Yesu ndiyoraha, \nAsipokuwako hapanifai, \nAkiwapo Yesu mimi sitishwi."
+                    },
+                    {
+                        "verse" : "Akiwapo Yesu si peke yangu, \nNanijapo tupwa akali wangu, \nAjapo niongoza njia mbaya, \nNiwapo na Yesu ninashukuru,"
+                    },
+                    {
+                        "verse" : "Akiwapo Yesu naweza lala, \nNaweza pumzika hata kiyama, \nKisha nitakwenda kwake milele, \nAkiwapo Yesu furaha tele."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Po pote, po pote, sina mashaka, \nPo pote na Yesu, naweza kwenda."
+            }
+        ]
+    },
+    {
+        "song_id" : 134,
+        "song_name" : "Tafuta Daima",
+        "key_signature" : "F minor",
+        "time_signature" : "6/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Tafuta daima utakatifu, \nFanya urafiki na watu wote, \nNena siku zote na Bwana wako, \nBaraka uombe kwa kila jambo."
+                    },
+                    {
+                        "verse" : "Tafuta daima utakatifu, \nUwe peke yako ukimwabudu, \nUkimwangalia Mwokozi wako, \nUtabadilishwa kama alivyo."
+                    },
+                    {
+                        "verse" : "Tafuta daima utakatifu, \nKiongozi wako awe Yesu tu, \nKatika furaha au huzuni, \nDumu kumfuata Yesu Mwokozi."
+                    },
+                    {
+                        "verse" : "Tafuta daima utakatifu, \nUmtawaze roho moyoni mwako, \nAkikuongoza katika haki, \nHufanywa tayari kwa kazi yake."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 135,
+        "song_name" : "Saa Heri ya Maombi",
+        "key_signature" : "C",
+        "time_signature" : "3/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Saa heri ya maombi, sasa kwako tunarudi, \nSumbuku ya kuondoa, shida zetu na pungufu, \nTaabuni mara nyingi, roho zetu zimepona, \nMashakani tumeshinda, wakati wa saa tamu."
+                    },
+                    {
+                        "verse" : "Saa heri ya maombi, twapeleka dhiki zetu, \nKwake aliyeahidi, kubariki wenye haja, \nHuagiza tumwendee, tutegemee neno lake, \nHivyo tumwekee yote, wakati wa saa tamu."
+                    },
+                    {
+                        "verse" : "Saa heri ya maombi, tutazidi kuingia, \nBomani mwetu na ngome, hata tuishapo mwendo, \nYesu atatusikia, tutamtafuta daima, \nNa tutakapokutana, tutamwona-saa tamu."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 136,
+        "song_name" : "Unifundishe Baba",
+        "key_signature" : "",
+        "time_signature" : "",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Unifundishe Baba, ile njia ya sala, \nUniendeshe sana, niwe kama Yesu."
+                    },
+                    {
+                        "verse" : "Unipe pendo baba, watu kuwaokoa, \nNyumbani na mjini, niwe kama Yesu."
+                    },
+                    {
+                        "verse" : "Na unifahamishe, wakati ndio mfupi, \nUnibidishe Bwana, niwe kama Yesu."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Niwe kama Yesu, niwe kama Yesu, \nUniongoze baba, niwe kama Yesu."
+            }
+        ]
+    },
+    {
+        "song_id" : 137,
+        "song_name" : "Saa Heri ya Sala",
+        "key_signature" : "D minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Saa heri ya sala, tunapojidhili, \nKama tukija kwake Yesu rafiki, \nTukiwa na imani, kwamba yu mlinzi, \nWaliochoka sana, watapata raha."
+                    },
+                    {
+                        "verse" : "Saa heri ya sala, ajapo Mwokozi, \nIli awasikie watoto wake, \nHutwambia tuweke, miguuni pake, \nMizigo yetu yote, tutapata raha."
+                    },
+                    {
+                        "verse" : "Saa heri ya sala, wawezapo kuja, \nKwa Bwana Yesu wanaojaribiwa, \nMoyo wake mpole, atawarehemu, \nWaliochoka sana, watapata raha."
+                    },
+                    {
+                        "verse" : "Saa heri ya sala, tutakapopewa, \nMibaraka ya roho tukimwamini, \nKwa kuamini kweli, hatutaogopa, \nWaliochoka sana, watapata raha."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Saa ya sala, iliyo heri, \nWaliochoka sana, \nWatapata raha."
+            }
+        ]
+    },
+    {
+        "song_id" : 138,
+        "song_name" : "Nitakuandama Kote",
+        "key_signature" : "A minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Nitakuandama kote, nitakapoangizwa, \nWewe ukiniongoza, nami nitaandama."
+                    },
+                    {
+                        "verse" : "Njia ijapoparuza, kwa miiba na fujo, \nUlitangulia mbele, nami nitaandama."
+                    },
+                    {
+                        "verse" : "Nijapokuta taabu, na majaribu kote, \nNakumbuka shida yako, nami nitaandama."
+                    },
+                    {
+                        "verse" : "Nijapoona ukiwa, na mateso makali, \nWewe uliyatikiza, nami nitaandama."
+                    },
+                    {
+                        "verse" : "Ijapo wanipeleka, vilindini mwa giza, \nWewe uliyatikiza, nami nitaandama."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Nitakuandama kote, naam ulinifia, \nKwa neema yako Bwana, napenda kuandama."
+            }
+        ]
+    },
+    {
+        "song_id" : 139,
+        "song_name" : "Uliniimbie Tena",
+        "key_signature" : "F minor",
+        "time_signature" : "6/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Uliniimbie tena, neno la uzima, \nUzuri wake nione, neno la uzima, \nNeno hili zuri, lafundisha kweli."
+                    },
+                    {
+                        "verse" : "Kristo anatupa sote, neno la uzima, \nMwenye dhambi asikie, neno la uzima, \nLatolewa bure, tupate wokovu."
+                    },
+                    {
+                        "verse" : "Neno tamu la injili, neno la uzima, \nLina amani kwa wote, neno la uzima, \nLitatutakasa, kwa haki ya mwana."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Maneno ya, uzima ni, maneno mazuri, \nManeno ya, uzima ni, maneno mazuri."
+            }
+        ]
+    },
+    {
+        "song_id" : 140,
+        "song_name" : "Nitwae Hivi Nilivyo",
+        "key_signature" : "D",
+        "time_signature" : "6/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Nitwae hivi nilivyo, \nUmemwaga damu yako, \nNawe ulivyoniita, \nBwana Yesu sasa, naja."
+                    },
+                    {
+                        "verse" : "Hivi nilivyo si langu, \nKujiosha roho yangu, \nNisamehe dhambi zangu, \nBwana Yesu sasa, naja."
+                    },
+                    {
+                        "verse" : "Hivi nilivyo sioni, \nKamwe furaha moyoni, \nDaima ni mashakani, \nBwana Yesu sasa, naja."
+                    },
+                    {
+                        "verse" : "Hivi nilivyo kipofu, \nMaskini na mpungufu, \nWewe ndiwe u tajiri, \nBwana Yesu sasa, naja."
+                    },
+                    {
+                        "verse" : "Hivi nilivyo mimi tu, \nSiwezi kujiokoa, \nNa wewe hutanikataa, \nBwana Yesu sasa, naja."
+                    },
+                    {
+                        "verse" : "Hivi nilivyo mapenzi, \nYamenipa njia wazi, \nHali na mali sisazi, \nBwana Yesu sasa, naja."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 141,
+        "song_name" : "Chini ya Msalaba",
+        "key_signature" : "D minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Chini ya msalaba, nataka simama, \nNdio mwamba safarini, wa kivuli chema, \nNi kweli kwa roho yangu, ni tuo kamili, \nTatua mzigo wangu, wakati wa hari."
+                    },
+                    {
+                        "verse" : "Hapa ni pema sana, ni ngome kamili, \nHapa yameonekana, mapenzi ya kweli, \nKama alivyoonyeshwa, Yakobo zamani, \nMsalaba umekuwa, ngazi ya mbinguni."
+                    },
+                    {
+                        "verse" : "Na Yesu Msalabani, walimkemea, \nAlikufa niokoke, niliyepotea, \nNaona ajabu sana, ya mambo mawili, \nJinsi alivyonipenda, nisiyestahili."
+                    },
+                    {
+                        "verse" : "Atakayeonana na, Yesu mbinguni, \nNjia yake aanzapo, ni Msalabani \nWokovu upo hapa tu, mwingine hapana, \nKisha kuna furaha kuu, pamoja na Bwana."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 142,
+        "song_name" : "Nasikia Mwito",
+        "key_signature" : "D",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Nasikia mwito, ni sauti yako, \nNikasafiwe kwa damu, ya kwangikwa kwako."
+                    },
+                    {
+                        "verse" : "Ni mnyonge kweli, umenipa nguvu, \nUlivyonisafi taka, ni utimilivu."
+                    },
+                    {
+                        "verse" : "Yesu hunijuvya, mapenzi imani, \nTumai amani radhi, hapa na mbinguni."
+                    },
+                    {
+                        "verse" : "Napata wokovu, wema na neema, \nKwako Bwana nina nguvu, na haki daima."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Nimesogea, mtini pako, \nUnisafi kwa damu, ya kuangikwa kwako."
+            }
+        ]
+    },
+    {
+        "song_id" : 143,
+        "song_name" : "Baba Sina Msaada",
+        "key_signature" : "F minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Baba sina msaada, ila kwako pekee, \nKama kwangu ungefichwa, nifanyeje Baba?"
+                    },
+                    {
+                        "verse" : "Naamini mwana wako, nipe nguvu zako, \nNijazie mahitaji, katika saa hii."
+                    },
+                    {
+                        "verse" : "Ni furaha gani kwangu, kukuona uso, \nNijue sauti yako, nipate neema."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Sasa hivi naamini, Yesu alikufa, \nAliimwaga damu yake, nitoke dhambini."
+            }
+        ]
+    },
+    {
+        "song_id" : 144,
+        "song_name" : "Ni Wako Bwana",
+        "key_signature" : "G",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Ni wako Bwana, ninasikia, \nUnaponena nami, \nLakini kweli, nataka kwako, \nNizidi kusogea."
+                    },
+                    {
+                        "verse" : "Niweke sasa, nikatumike, \nKwa nguvu za neema, \nUyapendayo, nami nipende, \nNizidi kukwandama."
+                    },
+                    {
+                        "verse" : "Nina furaha, tele kila saa, \nNizungumzapo nawe, \nNinanena kama kwa rafiki, \nNikipiga magoti."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Bwana vuta, (vuta) nije nisongee, \nSana kwako mtini, \nBwana vuta, (vuta) nije nisogee, \nPa damu ya thamani."
+            }
+        ]
+    },
+    {
+        "song_id" : 145,
+        "song_name" : "Ulimwengu Siutaki",
+        "key_signature" : "F minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Ulimwengu siutaki, namtaka Bwana Yesu, \nDunia hunidanganya, Yesu yu mwaminifu."
+                    },
+                    {
+                        "verse" : "Ulimwengu siutaki, namtaka Bwana Yesu, \nKati ya dhoruba kali, yeye wimbo mtamu."
+                    },
+                    {
+                        "verse" : "Ulimwengu siutaki, namtaka Bwana Yesu, \nSafarini duniani, yeye furaha yangu."
+                    },
+                    {
+                        "verse" : "Ulimwengu siutaki, namtaka Bwana Yesu, \nMsalaba naamini, hata namwona Yesu."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Rehema ni ya ajabu, pendo bila kipimo, \nWokovu mkamilifu, amana ya uzima."
+            }
+        ]
+    },
+    {
+        "song_id" : 146,
+        "song_name" : "Twae Wangu Uzima",
+        "key_signature" : "F minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Twae wangu uzima, sadaka ya daima, \nTwae saa na usiku, zikutukuze huku."
+                    },
+                    {
+                        "verse" : "Twae mikono nayo, ifanye upendayo, \nTwae yangu miguu, kwa uongozi wako tu."
+                    },
+                    {
+                        "verse" : "Twae sauti yangu, niimbe kwa Mungu tu, \nItwae na midomo, ijae neno lako."
+                    },
+                    {
+                        "verse" : "Twae dhahabu pia, na yote ya dunia, \nTwae yangu hekima, upendavyo tumia."
+                    },
+                    {
+                        "verse" : "Nia itwae Mungu, haitakuwa yangu, \nTwae moyo ni wako, uwe makazi yako."
+                    },
+                    {
+                        "verse" : "Twae mapenzi yangu, sifa za moyo wangu, \nTwae kabisa nafsi, niwe wako halisi"
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 147,
+        "song_name" : "Tawala Ndani Yangu",
+        "key_signature" : "D",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Tawala ndani yangu, ee Yesu mfalme, Uwe kwangu majibu, kwa maswali yangu, Uishi ndani yangu, wewe mwongozi, Utumishi ni wangu, wako utukufu."
+                    },
+                    {
+                        "verse" : "Hekalu nimetoa, umelisafisha, Sasa fahari yako, imulike ndani, Dunia iwe kimya, mwili sasa uwe, Mtumwa mtulivu, wa kukutii tu."
+                    },
+                    {
+                        "verse" : "Viungo vyake mwili, vyote vyakungoja, Tayari vikiitwa, kwenda kusimama, Bila manung’uniko, au malaumu, Au kusumbuliwa, pasipo majuto."
+                    },
+                    {
+                        "verse" : "Niwe na utulivu, pasipo haraka, Tayari kungojea, maagizo yako, Tawala ndani yangu, ee Yesu mfalme, Uwe kwangu majibu, kwa maswali yote."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 148,
+        "song_name" : "Univute Karibu Baba",
+        "key_signature" : "A",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Univute karibu Baba, unikumbatie, \nUnisogeze kifuani, nataka pumziko."
+                    },
+                    {
+                        "verse" : "Univute Mwokozi wangu, na tusiachane, \nMikono yako juu, yangu leo niione."
+                    },
+                    {
+                        "verse" : "Univute kwa roho yako, nifanane nawe, \nUnioshe unihuishe, niwe safi huru."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Univute karibu, (Vuta univute karibu), \nKwa kamba za upendo, (Kwa kamba, kamba za upendo), \nUnivute (Kwa kamba za upendo, univute karibu), \nKaribu nawe. (Univute karibu)"
+            }
+        ]
+    },
+    {
+        "song_id" : 149,
+        "song_name" : "Kuwa Wake Yesu",
+        "key_signature" : "G minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Kuwa wake Yesu, je ni kusudi lako? \nUngeenda naye, njia nyembamba? \nUnataka aubebe, mzigo wako? \nAwe Mwongozi wako."
+                    },
+                    {
+                        "verse" : "Unataka kuitika, anapokwita? \nKupata amani, kwa kumpa vyote? \nWataka uwezo, usianguke kamwe? \nAwe Mwongozi wako."
+                    },
+                    {
+                        "verse" : "Wataka raha katika, ufalme wake? \nUngeshinda kwa majaribu yote? \nUngefanya kazi yake, vizuri sana? \nAwe Mwongozi wako."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Uwezo wake unakutosha, \nNa damu yake itakusafi, \nKwa vile ukubali ni bora, \nAfanye mapenzi yake nawe."
+            }
+        ]
+    },
+    {
+        "song_id" : 150,
+        "song_name" : "Hasha Maneno Mabaya",
+        "key_signature" : "D minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Hasha maneno mabaya, \nYasitoke kinywani, \nMoyo mwema uzuie, \nNdimi zisichafuke."
+                    },
+                    {
+                        "verse" : "Pendo ni mtakatifu, \nUrafiki mzuri, \nVisiharibike mara, \nKwa kunena vibaya."
+                    },
+                    {
+                        "verse" : "Tusinene kwa hasira, \nInazaa huzuni, \nPendo lako ee Mwokozi, \nLinatosha tushinde."
+                    }
+                ]
+            },
+            {
+                "chorus" : "“Nanyi pendeni,” asema Yesu, \n(mpendane) (mpendane)\nKama mwanzo alivyotupenda, \n“Nanyi pendeni,” asema Yesu, \n(mpendane) (mpendane) \nWana tiini amri hii (amri heri hii)."
+            }
+        ]
+    },
+    {
+        "song_id" : 151,
+        "song_name" : "Huniongoza Mwokozi",
+        "key_signature" : "C",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Huniongoza Mwokozi, ndipo nami hufurahi, \nNiendapo pote napo, ataniongoza papo."
+                    },
+                    {
+                        "verse" : "Pengine ni mashakani, nami pengine rahani, \nNi radhi ijayo yote, yupo nami siku zote."
+                    },
+                    {
+                        "verse" : "Mkono akinishika, kamwe sitanung’unika, \nAtakachoniletea, ni tayari kupokea."
+                    },
+                    {
+                        "verse" : "Nikiisha kazi chini, sitakimbia mauti, \nKushinda ni ya hakika, nikiongozwa na Baba."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Kuongoza hunishika, \nKwa mkono wa hakika, \nNitaandamana naye, \nKristo aniongozaye."
+            }
+        ]
+    },
+    {
+        "song_id" : 152,
+        "song_name" : "Karibu na Wewe",
+        "key_signature" : "C",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Karibu na wewe, Mungu wangu, \nKaribu zaidi, Bwana wangu, \nSiku zote niwe, karibu na wewe, \nKaribu zaidi, Mungu wangu."
+                    },
+                    {
+                        "verse" : "Mimi nasafiri, duniani, \nPa kupumzika, sipaoni, \nNilalapo niwe, karibu na wewe, \nKaribu zaidi, Mungu wangu."
+                    },
+                    {
+                        "verse" : "Yote unipayo, yanivuta, \nPa kukaribia nitapata, \nNa nielekezwe, karibu na wewe, \nKaribu zaidi, Mungu wangu."
+                    },
+                    {
+                        "verse" : "Na kwa nguvu, zangu nikusifu, \nMwamba uwe, maji ya wokovu, \nMashakani niwe, karibu na wewe, \nKaribu zaidi, Mungu wangu."
+                    },
+                    {
+                        "verse" : "Na nyumbani juu, Baba yangu, \nNikinyakuliwa, toka huko, \nKwa furaha niwe, pamoja na wewe, \nKaribu zaidi, Mungu wangu."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 153,
+        "song_name" : "Fikira Moja tu",
+        "key_signature" : "A minor",
+        "time_signature" : "6/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Fikira moja tu, hurejea tena, \nNimekaribia mbingu, zaidi ya jana."
+                    },
+                    {
+                        "verse" : "Karibu na kwetu, na kwenye makao, \nKiti cha enzi cha Mungu, pahali pa mto."
+                    },
+                    {
+                        "verse" : "Kamilisha Yesu, kuamini kwangu, \nNikifika mwisho wangu, nikwone karibu."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Karibu na, kwetu mbingu, \nKaribu na kwetu sasa, \nNikwone karibu."
+            }
+        ]
+    },
+    {
+        "song_id" : 154,
+        "song_name" : "Yanipasa Kuwa Naye",
+        "key_signature" : "D",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : ""
+                    },
+                    {
+                        "verse" : ""
+                    },
+                    {
+                        "verse" : ""
+                    },
+                    {
+                        "verse" : ""
+                    }
+                ]
+            },
+            {
+                "chorus" : "Karibu na, kwetu mbingu, \nKaribu na kwetu sasa, \nNikwone karibu."
+            }
+        ]
     }
 ]
