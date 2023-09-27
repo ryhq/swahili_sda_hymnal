@@ -4183,5 +4183,320 @@
                 "chorus" : ""
             }
         ]
+    },
+    {
+        "song_id" : 159,
+        "song_name" : "Anakuja Upesi",
+        "key_signature" : "D minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Anakuja upesi Yesu Bwana wetu, \nMsafiri mbali na kwao, \nAlisema dhahiri “Nitakuja tena,” \nAmina na uje Ee Bwana."
+                    },
+                    {
+                        "verse" : "Makaburi yote wafu wanapolala, \nYatafunguliwa tena, \nNa maelfu pale wataondoka tena, \nWasione machozi kamwe."
+                    },
+                    {
+                        "verse" : "Hatuta tengana na hao tena huko, \nNyimbo nzuri tutaimba, \nWatakusanyika toka kila kabila, \nMiguuni pa Mwana Kondoo."
+                    },
+                    {
+                        "verse" : "Aleluya amin aleluyatena, \nUpendo wake unashinda, \nTutamsifu milele hata tutashangaa, \nJinsi alivyotukomboa."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yuaja, Yesu atarudi sasa, \nAnakuja duniani, \nWasafiri wote watapumzika, \nYesu anaporudi tena."
+            }
+        ]
+    },
+    {
+        "song_id" : 160,
+        "song_name" : "Watakatifu Kesheni",
+        "key_signature" : "C",
+        "time_signature" : "2/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Watakatifu kesheni, \nNguvu za mbingu zagonga, \nWasheni taa tayari, \nKwa kurudi kwake Bwana."
+                    },
+                    {
+                        "verse" : "Piga mbiu tangazeni, \nHabari ya ukombozi, \nYa mponya wa upendo, \nNayo nguvu ya samaha."
+                    },
+                    {
+                        "verse" : "Falme nyingi zaangushwa, \nPanda ya saba yalia; \nTangaza neema yake, \nKabla ya kupita saa."
+                    },
+                    {
+                        "verse" : "Mataifa yapotea, \nNchi zajaa uchungu, \nKristo anaharakisha, \nUnabii unatimizwa."
+                    },
+                    {
+                        "verse" : "Wenye dhambi njoni sasa, \nKristo awapatanishe, \nMbio twaeni neema, \nKitambo muda waisha."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yuaja, Yesu Mfalme, \nYuaja mwenye fahari, \nYesu yuaja enzini, \nKaribu Yesu uje."
+            }
+        ]
+    },
+    {
+        "song_id" : 161,
+        "song_name" : "Piga Panda",
+        "key_signature" : "A",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Piga panda na ya makelele, \nYesu yuaja tena, \nIpaze sauti imba sana, \nYesu yuaja tena."
+                    },
+                    {
+                        "verse" : "Itoe mwangwi sana vilima, \nYesu yuaja tena, \nYuaja kwa utukufu mwingi, \nYesu yuaja tena."
+                    },
+                    {
+                        "verse" : "Itangazwe mahali po pote, \nYesu yuaja tena. \nMwokozi aliyetufilia, \nYesu yuaja tena."
+                    },
+                    {
+                        "verse" : "Kuona machafuko twajua, \nYesu yuaja tena, \nMataifa yakasiriana, \nYesu yuaja tena."
+                    },
+                    {
+                        "verse" : "Maradhi hofu hutuhubiri, \nYesu yuaja tena. \nTaabu, njaa hutulilia, \nYesu yuaja tena."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Anakuja, anakuja, Yesu yuaja tena."
+            }
+        ]
+    },
+    {
+        "song_id" : 162,
+        "song_name" : "Tumaini Liko",
+        "key_signature" : "F minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Tumaini liko la thamani kuu, \nKupita anasa tupu zake ulimwengu."
+                    },
+                    {
+                        "verse" : "Pana nyota nzuri nuru itoayo, \nKwetu wakati wa kifo ndio ufufuo."
+                    },
+                    {
+                        "verse" : "Zikiumwa roho na hofu mashaka, \nSauti hutuambia Mungu hutupenda."
+                    },
+                    {
+                        "verse" : "Kutoka Kalwari sauti hunena, \nNyota ni nuru ya mbingu tumaini letu."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 163,
+        "song_name" : "Pengine Ni Saa",
+        "key_signature" : "C",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Pengine ni saa ya kupambazuka, \nMishale ya jua ipenyapo giza, \nKwamba atakuja Yesu mtukufu, \nAwapokee wake."
+                    },
+                    {
+                        "verse" : "Pengine mchana pengine jioni, \nPengine usiku wa manane, \nGiza litatoweka kwa fahari akija, \nAwapokee wake."
+                    },
+                    {
+                        "verse" : "Majeshi yake yataimba ‘hosana,’ \nNa watakatifu waliotukuzwa, \nWatamsifu kwa kuwa amekuja, \nAwapokee wake."
+                    },
+                    {
+                        "verse" : "Furaha tukiitwa pasipo kufa, \nPasipo kuona maradhi machozi, \nKuchukuliwa winguni kwa fahari, \nAkija kwa watu wake."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Bwana itakuwa lini, \nTutakapoimba, “Anakuja, \nBwana Yesu, Aleluya, \nAmin, Aleluya, Amin?”"
+            }
+        ]
+    },
+    {
+        "song_id" : 164,
+        "song_name" : "Unakaribia Wakati",
+        "key_signature" : "",
+        "time_signature" : "",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Unakaribia wakati wa kuja kwa Yesu, \nAtawachukua watu wake nyumbani juu."
+                    },
+                    {
+                        "verse" : "Injili inatangazwa pote kwa mataifa, \nBwana wa Arusi atakuja na tarumbeta."
+                    },
+                    {
+                        "verse" : "Pamoja na malaika zake Bwana arudi, \nAwapeleke waaminifu wasife tena."
+                    },
+                    {
+                        "verse" : "Wapenzi waliotengwa kale watakutana, \nMachozi yao wenye huzuni yatafutika."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Tunaiona mishale ya nuru inayopenya giza, \nTunaiona mishale ya nuru ya ufufuo."
+            }
+        ]
+    },
+    {
+        "song_id" : 165,
+        "song_name" : "Ahadi Tamu",
+        "key_signature" : "F minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Ahadi tamu kwa waamini, \nTazama nakuja upesi sana, \nUwe imara hatari kubwa, \nNdugu usilale, bali ukeshe."
+                    },
+                    {
+                        "verse" : "Tutakesha na kutoa sala, \nAtakuja kama mwivi kwa wengi, \nYa kwamba yu karibu twajua, \nIla hatujui ni siku gani."
+                    },
+                    {
+                        "verse" : "Tunategemea neno lake, \nAmbalo latangaza kuja kwake, \nTumaini letu ni ahadi, \n“Naja karibuni,” uwe imara."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Uihifadhi imani yako, \nDunia mpya itatolewa. \nNjoo ingia furaha yangu, \nTaji zina ngoja, uwe imara."
+            }
+        ]
+    },
+    {
+        "song_id" : 166,
+        "song_name" : "Furaha Kwa Ulimwengu",
+        "key_signature" : "C",
+        "time_signature" : "2/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Furaha kwa ulimwengu, \nBwana atakuja, Kila moyo umpokee, \nViumbe imbeni, Viumbe imbeni, \nViumbe vyote imbeni."
+                    },
+                    {
+                        "verse" : "Na Bwana atatawala, \nWatu na waimbe, Miti milima na mawe, \nKariri furaha, Kariri furaha, \nKariri furaha kubwa."
+                    },
+                    {
+                        "verse" : "Atatawala kwa wema, \nAtawafundisha, Mataifa haki yake, \nAjabu za pendo, Ajabu za pendo, \nAjabu za pendo lake."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 167,
+        "song_name" : "Yu hai, Yu hai",
+        "key_signature" : "A minor",
+        "time_signature" : "6/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Yesu Bwana Mwokozi ameshafufuka,\nNajua kwamba yupo pamoja na mimi,\nSauti nasikia rehema naona,\nWakati namhitaji Yupo nami"
+                    },
+                    {
+                        "verse" : "Ulinzi wake upo nao ni dhahiri,\nMiguu ichokapo sikati tamaa,\nNajua aniongoza kupita dhoruba,\nSiku yakuja kwake Nitamwona"
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yu hai, Yu hai, Yu hai Bwana Yesu,\nAtembea azungumza nami siku zote,\nYu hai, Yu hai, Kutoa uzima,\nHivi ndivyo nijuavyo, Yu hai ndani yangu"
+            }
+        ]
+    },
+    {
+        "song_id" : 168,
+        "song_name" : "Tarumbeta ya Mwana",
+        "key_signature" : "G",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Tarumbeta ya Mwana itakapolia mara, \nMilele itakapopambazuka, \nNao wa haki watakapokusanyika ng’ambo, \nMajina yaitwapo lo! niweko."
+                    },
+                    {
+                        "verse" : "Siku ile watakatifu watakapoamka, \nNakuondoka huru kaburini, \nWatakapokusanyika makaoni kule juu, \nMajina yaitwapo lo niweko."
+                    },
+                    {
+                        "verse" : "Tutende kazi ya Yesu mchana kutwa kwa bidii, \nTutangaze kote pendo lake kuu, \nNayo kazi itakapotimika hapa chini, \nMajina yaitwapo lo niweko."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Majina yaitwapo lo, \nMajina yaitwapo lo, \nMajina yaitwapo lo, \nMajina yaitwapo lo niweko."
+            }
+        ]
+    },
+    {
+        "song_id" : 169,
+        "song_name" : "Hapo Yesu Atakapoita",
+        "key_signature" : "",
+        "time_signature" : "",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Hapo Yesu atakapoita, \nMataifa mbele yake, \nTutashindaje kwenye hukumu, \nMbele ya kiti cha enzi."
+                    },
+                    {
+                        "verse" : "Je tutasikia neno tamu, \n“Vema wewe mtumwa mwema,” \nAma wenye uchungu na hofu, \nTutakatazwa ufalme?"
+                    },
+                    {
+                        "verse" : "Atakubali tu kwa furaha, \nWatoto wake wapendwa, \nAtawapa mavazi meupe, \nWakae kitini pake."
+                    },
+                    {
+                        "verse" : "Hivyo tukeshe nasi tungoje, \nWenye taa zinazowaka, \nTutakapoitwa arusini, \nTuwe tayari kumlaki."
+                    },
+                    {
+                        "verse" : "Roho ikielekea mbingu, \nTwangoja wenye saburi, \nHata safari yetu iishe, \nTukae kwake milele."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Atakusanya ngano ghalani, \nAtatupa mbali makapi, \nTutashindaje hukumuni, \nSiku kuu ya kiyama?"
+            }
+        ]
+    },
+    {
+        "song_id" : 170,
+        "song_name" : "Siitafuti Mali",
+        "key_signature" : "A minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Siitafuti mali, wala utajiri, \nNataka kwa yakini, nipate Mwokozi. \nChuoni mwa ufalme, niambie Yesu, \nJina langu yakini, je limeandikwa?"
+                    },
+                    {
+                        "verse" : "Dhambi zangu ni nyingi, ni kama mchanga, \nLakini damu yako, mwokozi yatosha, \nKwani umeahidi, zijapo nyekundu, \nZitakuwa nyeupe, ilivyo theluji."
+                    },
+                    {
+                        "verse" : "Mji mzuri sana, wa majumba makuu, \nWalipo malaika, mji bila ovu, \nWakaapo walio, na mavazi safi, \nJe limeandikwa, jina langu huko."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Limeandikwa je? \nJina langu huko? \nKitabuni mbinguni,  Limeandikwa je?"
+            }
+        ]
     }
 ]
