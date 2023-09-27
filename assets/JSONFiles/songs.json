@@ -4064,21 +4064,123 @@
             {
                 "verses" : [
                     {
-                        "verse" : ""
+                        "verse" : "Yanipasa kuwa naye, \nMwokozi Bwana wangu, \nAkiwa karibu nami, \nNapata nguvu kweli."
                     },
                     {
-                        "verse" : ""
+                        "verse" : "Yanipasa kuwa naye, \nKwani nategemea, \nAnaweza kufariji, \nNa maneno matamu."
                     },
                     {
-                        "verse" : ""
+                        "verse" : "Yanipasa kuwa naye \nMaisha yangu yote, \nYakiwapo majaribu, \nNa mashaka yo yote."
                     },
                     {
-                        "verse" : ""
+                        "verse" : "Yanipasa kuwa naye, \nKatika njia zangu, \nMacho yake yaongoza, \nHatua zangu zote."
                     }
                 ]
             },
             {
-                "chorus" : "Karibu na, kwetu mbingu, \nKaribu na kwetu sasa, \nNikwone karibu."
+                "chorus" : "Moyo hauogopi, wala kutikisika. \nNitakwenda apendapo, \nKwa kuwa anilinda."
+            }
+        ]
+    },
+    {
+        "song_id" : 155,
+        "song_name" : "Njiani Huniongoza",
+        "key_signature" : "G",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Njiani huniongoza, Yesu wangu Mwokozi, \nRehema hatapunguza, milele kiongozi, \nIna raha kwandamana, duniani daima, \nNijaposumbuka sana, yeye hutenda vyema."
+                    },
+                    {
+                        "verse" : "Njiani huniongoza, hupunguza matata, \nNikiugua hupoza, na njaa ninashiba, \nLichokapo guu langu, nguvu zikapungua, \nJiwe lilo mbele yangu, hunibubujikia."
+                    },
+                    {
+                        "verse" : "Njiani huiongoza, kwa pendo lililo kuu, \nMwisho atanituliza, kwake Baba yangu juu, \nNikivikwa kutokufa, nikae na Mwokozi, \nNitamsifu sana sifa, kweli ni kiongozi."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 156,
+        "song_name" : "Uniongoze Yehova",
+        "key_signature" : "G",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Uniongoze Yehova, ni msafiri chini, \nNi mnyonge u hodari, nilinde kwa mkono. \nUnitunze, unilinde, unionyeshe njia."
+                    },
+                    {
+                        "verse" : "Na kisima cha uzima, maji ya utabibu, \nFungua na moyo wangu, ninywe na kuponyeka, \nUninyweshe, unilishe, hata nimetosheka."
+                    },
+                    {
+                        "verse" : "Wakati wa kuuvuka, ule mto Yordani, \nHofu yangu hufariji, nione uso wako, \nNyimbo shangwe, nyimbo shangwe, nitaimba daima."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 157,
+        "song_name" : "Mfalme yu Mlangoni",
+        "key_signature" : "F minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Mfalme yu mlangoni, \nNdiye aliyetufia, \nMara wote wampendao, \nAtawakusanya."
+                    },
+                    {
+                        "verse" : "Dalili za kuja kwake, \nZinazidi kutimizwa, \nKaribuni wateule, \nWatamlaki Bwana."
+                    },
+                    {
+                        "verse" : "Sitafute duniani, \nAmani wala furaha, \nMpaka Bwana arudi, \nDhambi kuondoa."
+                    },
+                    {
+                        "verse" : "Tutakaa na Mwokozi, \nMakaoni ya milele, \nDaima tutafurahi, \nKuwa watu wake."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
+            }
+        ]
+    },
+    {
+        "song_id" : 158,
+        "song_name" : "U mwendo Gani Nyumbani",
+        "key_signature" : "D minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "U mwendo gani nyumbani? Mlinzi akanijibu, \n“Usiku sasa waisha, macheo karibu,” \nUsihuzunike tena, bali ulemee mwendo, \nHata ushike ufalme, kule mwangani juu."
+                    },
+                    {
+                        "verse" : "Na tena niliuliza, nchi yote ikajibu, \n“Sasa mwendo watimika, milele karibu,” \nUsihuzunike tena, ishara kuu zasonga, \nNa viumbe vyangojea, sauti ya Bwana."
+                    },
+                    {
+                        "verse" : "Nikamwuliza shujaa, ndivyo kanitia moyo, \n“Shikilia mapigano, kitambo yaisha,” \nUsihuzunike tena, kazi ifanywe kwa moyo; \nTumeahidiwa tunu tuishapo shinda."
+                    },
+                    {
+                        "verse" : "Siyo mbali na nyumbani, fikara tamu njiani, \nyatupoza roho nayo, yafuta machozi, \nUsihuzunike tena, kitambo tutakutana, \nWenye furaha kamili, nyumbani mwa Baba."
+                    }
+                ]
+            },
+            {
+                "chorus" : ""
             }
         ]
     }
