@@ -4498,5 +4498,341 @@
                 "chorus" : "Limeandikwa je? \nJina langu huko? \nKitabuni mbinguni, \nLimeandikwa je?"
             }
         ]
+    },
+    {
+        "song_id" : 171,
+        "song_name" : "Imeanzishwa Hukumu",
+        "key_signature" : "D minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Imeanzishwa hukumu mbinguni, \nTutasimamaje pale, \nApimapo Mungu Hakimu, \nKila wazo na tendo?"
+                    },
+                    {
+                        "verse" : "Wametangulia wafu kupimwa, \nKitambo ndipo wahai, \nWatapokea neno la mwisho, \nVitabuni mwa Mungu."
+                    },
+                    {
+                        "verse" : "Tutasimamaje usiku ule, \nSiri zetu kila moja, \nZafunuliwa toka vitabu, \nYesu atusaidie!"
+                    }
+                ]
+            },
+            {
+                "chorus" : "Tutasimamaje sote, \nKatika siku kuu ile? \nDhambi zetu zitafutika, \nAma zitatuangusha?"
+            }
+        ]
+    },
+    {
+        "song_id" : 172,
+        "song_name" : "Mfalme Wetu Atuita",
+        "key_signature" : "E minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Mfalme wetu atuita, tukae karamuni kwake, \nItakuwaje nasi kule, Bwana ajapo?"
+                    },
+                    {
+                        "verse" : "Atavikwa vizuri sana, taji badala ya miiba, \nKweli tukeo la fahari, Bwana ajapo."
+                    },
+                    {
+                        "verse" : "Kwa furaha awakubali, wenye mavazi ya arusi, \nTu wa heri tukimridhisha, Bwana ajapo."
+                    },
+                    {
+                        "verse" : "Kutakuwako na utengo, watalia waliomwasi, \nCha kutisha kipindi kile, Kristo ajapo!"
+                    },
+                    {
+                        "verse" : "Mfalme utupe neema, sisi tunapokungojea, \nTusiogope kukuona, ujapo Bwana."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Bwana ajapo ndugu, \nBwana ajapo, \nItakuwaje na sisi, \nBwana akija?"
+            }
+        ]
+    },
+    {
+        "song_id" : 173,
+        "song_name" : "Hatujui Saa",
+        "key_signature" : "B minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Hatujui saa ya kuja kwa Bwana, \nLakini dalili zasema karibu, \nAtakaporudi lakini kwa kweli, \nHatujui saa."
+                    },
+                    {
+                        "verse" : "Pana nuru kwao wapendao haki, \nPana kweli katika chuo cha Mungu, \nUnabii hufundisha kuja kwake, \nHatujui saa."
+                    },
+                    {
+                        "verse" : "Tutakesha na tutaomba daima, \nTutafanya kazi mpaka akija, \nTutaimba na tutasoma ishara, \nHatujui saa."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Atakuja, kwa vile tukeshe, \nAtakuja Mwokozi aleluya, \nAtakuja kwa fahari, \nYa baba yake, \nHatujui saa."
+            }
+        ]
+    },
+    {
+        "song_id" : 174,
+        "song_name" : "Sijui Atakapokuja",
+        "key_signature" : "E minor",
+        "time_signature" : "6/8",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Sijui atakapokuja, mchana au usiku, \nLabda saa ya alasiri, pengine ni alfajiri, \nHutwambia tuwe tayari, taa zetu tusizime, \nIli ajapo atukute, tuwe tukimngoja Yeye."
+                    },
+                    {
+                        "verse" : "Nakumbuka huruma zake, bei ya wokovu wetu, \nAliacha nyumba tukufu, awafilie wabaya, \nNinadhani itampendeza, kama sisi watu wake, \nTukionyesha pendo letu, tuwe tukimngoja Yeye."
+                    },
+                    {
+                        "verse" : "Ee Yesu Mwokozi mpendwa, wajua nalihifadhi, \nTumaini la kukuona, la kukaribishwa nawe, \nUkija kwa watu wengine, kama mhukumu wao, \nKwangu utakuwa rafiki, nakesha nakungojea."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Tu... kimngoje...a, (Kukesha tunakungoja Wewe), \nTu... kimngoja...a, (Kukesha tunakungoja Wewe)\nTu... kimngoje...a, (Kukesha tunakungoja wewe) \nTwakesha twamngoja Yeye."
+            }
+        ]
+    },
+    {
+        "song_id" : 175,
+        "song_name" : "Uso Kwa Uso",
+        "key_signature" : "B minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Nitaonana na Yesu, \nUso kwa uso kweli, \nSiku ile shangwe tele, \nNitamwona Mwokozi."
+                    },
+                    {
+                        "verse" : "Sasa siwezi kujua, \nJinsi alivyo hasa, \nBali atakapokuja, \nNitamwona halisi."
+                    },
+                    {
+                        "verse" : "Mbele yake yafukuzwa, \nMachozi na huzuni, \nKipotovu kitanyoshwa, \nFumbo litafumbuka."
+                    },
+                    {
+                        "verse" : "Uso kwa uso hakika, \nPalepale furaha, \nNitafurahi kabisa, \nNikimwona Mwokozi."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Tutaonana kwa macho, \nHuko kwetu mbinguni, \nNa kwa utukufu wake, \nNitamwona milele."
+            }
+        ]
+    },
+    {
+        "song_id" : 176,
+        "song_name" : "Ati twonane Mtoni",
+        "key_signature" : "D minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Ati twonane mtoni? \nMaji mazuri ya mbingu, \nYanatokea mwangani, \nPenye kiti cha Mungu."
+                    },
+                    {
+                        "verse" : "Tukitembea mtoni, \nNa Yesu mchunga wetu, \nDaima tu ibadani, \nUsoni pake kwetu."
+                    },
+                    {
+                        "verse" : "Tukisafiri mtoni, \nTutue ulemeao, \nWema wa Mungu yakini, \nUna taji na vazi"
+                    },
+                    {
+                        "verse" : "Kwang’ara sana mtoni, \nCha Mwokozi ni kioo, \nMilele hatuachani, \nTumsifu kwa nyimbo."
+                    },
+                    {
+                        "verse" : "Karibu sana mtoni, \nKaribu tutawasili, \nMara huwa furahani, \nNa amani ya kweli."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Naam twonane mtoni, \nWatakatifu kwenu ni mtoni, \nTutakutanika kule mtoni, \nPenye kiti cha Mungu."
+            }
+        ]
+    },
+    {
+        "song_id" : 177,
+        "song_name" : "Kazi Yangu Ikisha",
+        "key_signature" : "G",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Kazi yangu ikiisha, nami nikiokoka, \nNa kuvaa kutokuharibika, \nNitamjua Mwokozi, nivukapo ng’amboni, \nAtakuwa wa kwanza kunilaki."
+                    },
+                    {
+                        "verse" : "Kuona uso wake, kutanipa Furaha, \nFuraha isiyo ya kukomesha, \nNitamsifu Mwokozi, kwa rehema na pendo, \nVilivyonipa pahali mbinguni."
+                    },
+                    {
+                        "verse" : "Nao waliokufa, katika Bwana Yesu, \nNitawaona tena huko juu, \nLakini nifikapo, kwake huko mbinguni, \nNataka kumwona Mwokozi kwanza."
+                    },
+                    {
+                        "verse" : "Milangoni mwa mji, Bwana atanipisha, \nPasipo machozi wala huzuni, \nNitauimba wimbo, wa milele lakini, \nNataka kumwona Mwokozi kwanza."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Nitamjua, nitamjua, \nNikimwona uso kwa uso, \nNitamjua, nitamjua, \nKwa alama za misumari."
+            }
+        ]
+    },
+    {
+        "song_id" : 178,
+        "song_name" : "Ukingoni Mwa Yordani",
+        "key_signature" : "F minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Ukingoni mwa Yordani, ninaangalia, \nBara nzuri ya Kanaani, ninayotamani."
+                    },
+                    {
+                        "verse" : "Bara ile ina nuru, nuru ya milele, \nKristo jua hutawala, hufukuza giza."
+                    },
+                    {
+                        "verse" : "Nitapafikia lini, na kubarikiwa, \nPenye ufalme wa Baba, na kumwona uso."
+                    },
+                    {
+                        "verse" : "Furaha yangu rohoni ni kuchukuliwa, \nSiyaogopi mawimbi katika Yordani."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Tutakaa pamoja na Yesu, \nKatika pwani yenye raha, \nTutaimba wimbo wa Musa na Kondoo, \nMilele hata milele."
+            }
+        ]
+    },
+    {
+        "song_id" : 179,
+        "song_name" : "Wavunaji Watafurahi",
+        "key_signature" : "B minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Wavunaji watafurahi, \nPale watakaporudi, \nWakiyaleta mavuno, \nHata Yerusalemu."
+                    },
+                    {
+                        "verse" : "Na siku ile tutaimba, \nKumshukuru na kumsifu, \nBwana Yesu jumbe wetu, \nKule Yerusalemu."
+                    },
+                    {
+                        "verse" : "Wavunaji watafurahi, \nMakaoni mwa milele, \nYaliyowekwa tayari, \nKule Yerusalemu."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Furaha wataipata, \nFuraha hata milele, \nFuraha wataipata, \nWakati wa mavuno."
+            }
+        ]
+    },
+    {
+        "song_id" : 180,
+        "song_name" : "Pana Mahali Pazuri",
+        "key_signature" : "G",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Pana mahali pazuri mno, \nTwapaona kwa mbali sana, \nBaba yetu angoja pale, \nAmepanga makao yetu."
+                    },
+                    {
+                        "verse" : "Tutaimba pale kwa moyo, \nNyimbo tamu za wenye heri, \nNa rohoni hatutaona, \nTena haja ya kupumzika."
+                    },
+                    {
+                        "verse" : "Kwa Baba yetu mkarimu, \nTutatoa shukrani sana, \nKwa kipaji cha pendo lake, \nNa baraka anazotupa."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Kitambo tu bado, \nTutakutana ng’ambo pale, \nKitambo tu bado, \nTutakutana ng’ambo pale."
+            }
+        ]
+    },
+    {
+        "song_id" : 181,
+        "song_name" : "Mahali pa Maji",
+        "key_signature" : "E minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Mahali pa maji mazuri, maji ya uzima, \nAnapotungojea Yesu, tutakaribishwa."
+                    },
+                    {
+                        "verse" : "Tunapochoka safarini, tamu kupumzika. \nPanapo maji ya uzima, yatufurahisha."
+                    },
+                    {
+                        "verse" : "Una kiu? uje kwa Yesu, utaburudishwa, \nYesu yu maji ya uzima, unywe uokoke."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Mahali pa maji mazuri, penye maji ya uzima, \nTutakaa na Mwokozi, chemchemi ya uzima."
+            }
+        ]
+    },
+    {
+        "song_id" : 182,
+        "song_name" : "Mchana Hauishi",
+        "key_signature" : "D minor",
+        "time_signature" : "3/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Mchana hauishi, mjini mzuri, \nMji hautapita, na hapana giza."
+                    },
+                    {
+                        "verse" : "Milango ni ya lulu, mjini mzuri, \nDhahabu njia zake, na hapana giza."
+                    },
+                    {
+                        "verse" : "Milango haifungwi, mjini mzuri, \nMto ni wa uzima, na hapana giza."
+                    },
+                    {
+                        "verse" : "Hawahitaji jua, mjini mzuri, \nMwana Kondoo nuru, na hapana giza."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Machozi yatafutwa, kifo hakuna kule, \nHawahesabu siku, na hapana giza."
+            }
+        ]
+    },
+    {
+        "song_id" : 183,
+        "song_name" : "Furaha na Raha",
+        "key_signature" : "E minor",
+        "time_signature" : "4/4",
+        "song_lyrics" : [
+            {
+                "verses" : [
+                    {
+                        "verse" : "Furaha na raha tutapata, \nFuraha na raha tutapata, \nFuraha na raha tutapata, \nYesu anaporudi."
+                    },
+                    {
+                        "verse" : "Tutaimba nyimbo za shangwe kuu, \nTutaimba nyimbo za shangwe kuu, \nTutaimba nyimbo za shangwe kuu, \nYesu anaporudi."
+                    },
+                    {
+                        "verse" : "Hapana machozi arudipo, \nHapana machozi arudipo, \nHapana machozi arudipo, \nKwa wateule wake."
+                    }
+                ]
+            },
+            {
+                "chorus" : "Yesu anaporudi (rudi), \nYesu anaporudi (rudi), \nFuraha na raha tutapata, \nYesu anaporudi."
+            }
+        ]
     }
 ]
