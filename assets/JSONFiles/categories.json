@@ -1,0 +1,245 @@
+[
+    {
+        "category_id" : 1,
+        "category_name" : "Nyimbo Zote",
+        "from": 1,
+        "to" : 220,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Nyimbo Zote",
+                "from": 1,
+                "to" : 220
+            }
+        ]
+    },
+    {
+        "category_id" : 2,
+        "category_name" : "Nyimbo Za Ibada",
+        "from": 1,
+        "to" : 42,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Ibada, Kusifu na Kuomba",
+                "from": 1,
+                "to" : 25
+            },
+            {
+                "category_id" : 2,
+                "category_name" : "Kufungua Ibada",
+                "from": 26,
+                "to" : 28
+            },
+            {
+                "category_id" : 3,
+                "category_name" : "Upendo Katika Ukombozi",
+                "from": 29,
+                "to" : 37
+            },
+            {
+                "category_id" : 4,
+                "category_name" : "Viumbe Vyote",
+                "from": 38,
+                "to" : 38
+            },
+            {
+                "category_id" : 5,
+                "category_name" : "Roho Mtakatifu",
+                "from": 39,
+                "to" : 42
+            }
+
+        ]
+    },
+    {
+        "category_id" : 3,
+        "category_name" : "Kanisa",
+        "from": 43,
+        "to" : 96,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Upendo na Ushirika",
+                "from": 43,
+                "to" : 52
+            },
+            {
+                "category_id" : 2,
+                "category_name" : "Ushuhuda na Huduma",
+                "from": 53,
+                "to" : 63
+            },
+            {
+                "category_id" : 3,
+                "category_name" : "Kupigana Vita na Kushinda",
+                "from": 64,
+                "to" : 80
+            },
+            {
+                "category_id" : 4,
+                "category_name" : "Sabato",
+                "from": 81,
+                "to" : 88
+            },
+            {
+                "category_id" : 5,
+                "category_name" : "Asubuhi",
+                "from": 89,
+                "to" : 90
+            },
+            {
+                "category_id" : 6,
+                "category_name" : "Jioni",
+                "from": 91,
+                "to" : 93
+            },
+            {
+                "category_id" : 7,
+                "category_name" : "Sadaka",
+                "from": 94,
+                "to" : 96
+            }
+        ]
+    },
+    {
+        "category_id" : 4,
+        "category_name" : "Maisha Ya KiKristo na Mafundisho ya Dini",
+        "from": 97,
+        "to" : 183,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Wito wa Kristo",
+                "from": 97,
+                "to" : 112
+            },
+            {
+                "category_id" : 2,
+                "category_name" : "Toba na Msamaha",
+                "from": 113,
+                "to" : 120
+            },
+            {
+                "category_id" : 3,
+                "category_name" : "Imani na Tumaini",
+                "from": 113,
+                "to" : 120
+            },
+            {
+                "category_id" : 4,
+                "category_name" : "imani na Amani",
+                "from": 113,
+                "to" : 120
+            },
+            {
+                "category_id" : 5,
+                "category_name" : "Sala",
+                "from": 113,
+                "to" : 120
+            },
+            {
+                "category_id" : 6,
+                "category_name" : "Kuamua Kujitoa",
+                "from": 113,
+                "to" : 120
+            },
+            {
+                "category_id" : 7,
+                "category_name" : "Maombezi na Ulinzi",
+                "from": 113,
+                "to" : 120
+            },
+            {
+                "category_id" : 8,
+                "category_name" : "Kuja Kwa Yesu Mara ya Pili",
+                "from": 157,
+                "to" : 167
+            },
+            {
+                "category_id" : 8,
+                "category_name" : "Hukumu",
+                "from": 168,
+                "to" : 174
+            },
+            {
+                "category_id" : 9,
+                "category_name" : "Makao ya Waliokombolewa",
+                "from": 175,
+                "to" : 183
+            }
+        ]
+    },
+    {
+        "category_id" : 5,
+        "category_name" : "Mikutano Maalum",
+        "from": 184,
+        "to" : 195,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Ndoa",
+                "from": 184,
+                "to" : 185
+            },
+            {
+                "category_id" : 2,
+                "category_name" : "Mazishi",
+                "from": 186,
+                "to" : 187
+            },
+            {
+                "category_id" : 3,
+                "category_name" : "Ubatizo",
+                "from": 188,
+                "to" : 189
+            },
+            {
+                "category_id" : 4,
+                "category_name" : "Huduma ya Meza ya Bwana",
+                "from": 190,
+                "to" : 191
+            },
+            {
+                "category_id" : 5,
+                "category_name" : "Kuwekea Mikono",
+                "from": 192,
+                "to" : 194
+            },
+            {
+                "category_id" : 6,
+                "category_name" : "Kuweka Wakfu Kanisa",
+                "from": 192,
+                "to" : 195
+            }
+        ]
+    },
+    {
+        "category_id" : 6,
+        "category_name" : "Nyimbo Za Watoto na Vijana",
+        "from": 196,
+        "to" : 209,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Nyimbo Za Watoto na Vijana",
+                "from": 196,
+                "to" : 209
+            }
+        ]
+    },
+    {
+        "category_id" : 7,
+        "category_name" : "Maitikio",
+        "from": 210,
+        "to" : 220,
+        "category_contents" : [
+            {
+                "category_id" : 1,
+                "category_name" : "Maitikio",
+                "from": 210,
+                "to" : 220
+            }
+        ]
+    }
+]

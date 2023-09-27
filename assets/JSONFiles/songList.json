@@ -1,0 +1,82 @@
+[
+    {
+        "song_id" : 1,
+        "song_name" : "Mtakatifu, Mtakatifu, Mtakatifu!"
+    },
+    {
+        "song_id" : 2,
+        "song_name" : "Twamsifu Mungu"
+    },
+    {
+        "song_id" : 3,
+        "song_name" : "Mungu Atukuzwe"
+    },
+    {
+        "song_id" : 4,
+        "song_name" : "Jina la Yesu, Salamu"
+    },
+    {
+        "song_id" : 5,
+        "song_name" : "Na Tumwabudu"
+    },
+    {
+        "song_id" : 6,
+        "song_name" : "Kumekucha kwa Uzuri"
+    },
+    {
+        "song_id" : 7,
+        "song_name" : "Mungu Msaada Wetu"
+    },
+    {
+        "song_id" : 8,
+        "song_name" : "Unisikie Ninapolia"
+    },
+    {
+        "song_id" : 9,
+        "song_name" : "Mwumbaji Mfalme"
+    },
+    {
+        "song_id" : 10,
+        "song_name" : "Kristo wa Neema Yote"
+    },
+    {
+        "song_id" : 11,
+        "song_name" : "Sauti Zote Ziimbe"
+    },
+    {
+        "song_id" : 12,
+        "song_name" : "Msifu Mungu"
+    },
+    {
+        "song_id" : 13,
+        "song_name" : "Umetuahidi"
+    },
+    {
+        "song_id" : 14,
+        "song_name" : "Nitembee Nawe Mungu"
+    },
+    {
+        "song_id" : 15,
+        "song_name" : "Nena Rohoni Yesu"
+    },
+    {
+        "song_id" : 16,
+        "song_name" : "Bwana Nakuhitaji"
+    },
+    {
+        "song_id" : 17,
+        "song_name" : "Si mimi, Kristo"
+    },
+    {
+        "song_id" : 18,
+        "song_name" : "Mwokozi kama Mchunga"
+    },
+    {
+        "song_id" : 19,
+        "song_name" : "Msalabani pa Mwokozi"
+    },
+    {
+        "song_id" : 20,
+        "song_name" : "Mungu Wetu Yeye Mwamba"
+    }
+]
