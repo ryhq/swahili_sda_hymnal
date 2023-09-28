@@ -13,7 +13,7 @@ class SongNumber extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(8.0),
       child: Text(
-        songNumber.toUpperCase(),
+        "${songNumber.toUpperCase()}.",
         textAlign: TextAlign.left,
         style: TextStyle(
           color: themeColor,
