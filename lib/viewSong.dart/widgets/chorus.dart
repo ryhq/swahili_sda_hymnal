@@ -24,12 +24,15 @@ class Chorus extends StatelessWidget {
             fontWeight: FontWeight.bold
           ),
         ),
-        Text(
-          song_chorus,
-          style: TextStyle(
-            color: themeColor,
-            fontSize: 18,
-            fontWeight: FontWeight.normal
+        Padding(
+          padding: const EdgeInsets.only(left: 16.0),
+          child: Text(
+            song_chorus,
+            style: TextStyle(
+              color: themeColor,
+              fontSize: 18,
+              fontWeight: FontWeight.normal
+            ),
           ),
         ),
       ],
