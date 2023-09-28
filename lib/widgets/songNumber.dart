@@ -18,7 +18,7 @@ class SongNumber extends StatelessWidget {
         style: TextStyle(
           color: themeColor,
           fontSize: 14,
-          fontWeight: FontWeight.normal
+          fontWeight: FontWeight.bold
         ),
       ),
     );

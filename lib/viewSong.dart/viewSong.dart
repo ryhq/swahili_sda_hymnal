@@ -44,9 +44,12 @@ class _ViewSongState extends State<ViewSong> {
         body: ListView(
           physics: BouncingScrollPhysics(),
           children: [
-            HeadingOne(headingOne: song_name),
             Padding(
-              padding: const EdgeInsets.symmetric(vertical: 7.0, horizontal: 14.0),
+              padding: const EdgeInsets.symmetric(vertical: 16.0),
+              child: HeadingOne(headingOne: song_name),
+            ),
+            Padding(
+              padding: const EdgeInsets.symmetric(vertical: 16.0, horizontal: 14.0),
               child: key_signature.isEmpty || time_signature.isEmpty ? null :
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,

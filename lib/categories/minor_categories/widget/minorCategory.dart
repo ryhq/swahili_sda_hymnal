@@ -34,17 +34,16 @@ class MinorCategory extends StatelessWidget {
             width: 35,
             height: 35,
             decoration: BoxDecoration(
-              color: themeColor,
               borderRadius: BorderRadius.circular(50)
             ),
             child: Padding(
               padding: const EdgeInsets.all(8.0),
               child: Center(
                 child: Text(
-                  category_id.toString(),
+                  "${category_id.toString()}.",
                   style: TextStyle(
                     fontSize: 18,
-                    color: Colors.white,
+                    color: themeColor,
                     fontWeight: FontWeight.bold
                   ),
                 ),
@@ -56,7 +55,7 @@ class MinorCategory extends StatelessWidget {
             style: TextStyle(
               color: themeColor,
               fontSize: 18,
-              fontWeight: FontWeight.bold
+              fontWeight: FontWeight.normal
             ),
           ),
           subtitle: Text(

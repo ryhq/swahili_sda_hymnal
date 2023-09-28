@@ -80,7 +80,7 @@ class _AllSongsState extends State<AllSongs> {
                         borderRadius: BorderRadius.all(Radius.circular(21)),
                       ),
                       child: ListTile(
-                        leading: SongNumber(songNumber: songs['song_id'].toString()),
+                        leading: SongNumber(songNumber: "${songs['song_id'].toString()}."),
                         title: SongTitle(songTitle: songs['song_name'].toString()),
                         trailing: IconButton(
                           icon: Icon(
