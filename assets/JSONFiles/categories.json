@@ -21,13 +21,13 @@
         "category_contents" : [
             {
                 "category_id" : 1,
-                "category_name" : "Ibada, Kusifu na Kuomba",
+                "category_name" : "Kusujudu, Kusifu na Kuomba",
                 "from": 1,
                 "to" : 25
             },
             {
                 "category_id" : 2,
-                "category_name" : "Kufungua Ibada",
+                "category_name" : "Kufunga Ibada",
                 "from": 26,
                 "to" : 28
             },
@@ -110,7 +110,7 @@
         "category_contents" : [
             {
                 "category_id" : 1,
-                "category_name" : "Wito wa Kristo",
+                "category_name" : "Mwito wa Kristo",
                 "from": 97,
                 "to" : 112
             },
@@ -123,32 +123,32 @@
             {
                 "category_id" : 3,
                 "category_name" : "Imani na Tumaini",
-                "from": 113,
-                "to" : 120
+                "from": 123,
+                "to" : 125
             },
             {
                 "category_id" : 4,
-                "category_name" : "imani na Amani",
-                "from": 113,
-                "to" : 120
+                "category_name" : "Kuamini na Amani",
+                "from": 126,
+                "to" : 134
             },
             {
                 "category_id" : 5,
                 "category_name" : "Sala",
-                "from": 113,
-                "to" : 120
+                "from": 135,
+                "to" : 137
             },
             {
                 "category_id" : 6,
-                "category_name" : "Kuamua Kujitoa",
-                "from": 113,
-                "to" : 120
+                "category_name" : "Kukata Maneno na Kujitoa Wakfu",
+                "from": 138,
+                "to" : 149
             },
             {
                 "category_id" : 7,
-                "category_name" : "Maombezi na Ulinzi",
-                "from": 113,
-                "to" : 120
+                "category_name" : "Maongozi na Ulinzi",
+                "from": 150,
+                "to" : 156
             },
             {
                 "category_id" : 8,
@@ -164,7 +164,7 @@
             },
             {
                 "category_id" : 9,
-                "category_name" : "Makao ya Waliokombolewa",
+                "category_name" : "Makao ya Waliookoka",
                 "from": 175,
                 "to" : 183
             }
@@ -202,7 +202,7 @@
             },
             {
                 "category_id" : 5,
-                "category_name" : "Kuwekea Mikono",
+                "category_name" : "Kutia Mikono",
                 "from": 192,
                 "to" : 194
             },
