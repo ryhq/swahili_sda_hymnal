@@ -1,6 +1,6 @@
 # swahili_sda_hymnal
 
-A new Flutter project.
+My proof of concept project after one month learning flutter, a project based on creating a simple swahili SDA hymal book
 
 ## Getting Started
 
